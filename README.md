@@ -1,0 +1,2 @@
+# alatku
+memudahkan install 
